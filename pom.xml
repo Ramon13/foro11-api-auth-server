@@ -12,13 +12,10 @@
 	</parent>
 	
 	<groupId>br.com.javamoon</groupId>
-	
 	<artifactId>foro11-api-auth</artifactId>
-	
 	<version>0.0.1-SNAPSHOT</version>
-	
+	<packaging>jar</packaging>
 	<name>foro11-api-auth</name>
-	
 	<description>A simple project to learn spring security</description>
 	
 	<properties>
